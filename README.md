@@ -14,7 +14,7 @@ I decided to make a tribute page for Steve Jobs as I always been inspired how he
 
 ## Outcomes
 
-This was my first ever Tribute page. The purpose of this challenge was to grasp knowledge of new programming languages such as CSS and HTML to design a user friendly tribute page and prepare me for the @SchoolOfCode Bootcamp. Prior the tribute page, I watched some youtube videos, read documentation and taken a short course about the UX/UI fundamentals.
+This was my first ever Tribute page. The purpose of this challenge was to grasp knowledge of CSS and HTML to design a user friendly tribute page and prepare me for the @SchoolOfCode Bootcamp. In addition, to make the task more challenging, I made sure that the tribute page will be added in the GitHub repo. Prior the tribute page, I watched some youtube videos, followed FreeCodeCamp tutorials, read documentations and taken a short course about the UX/UI fundamentals.
 
 
 ## Technologies
