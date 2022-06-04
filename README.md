@@ -1,19 +1,20 @@
-<h1 align = "center">  Steve Jobs Tribute Page  </h1>
+<h1 align = "center">  Steven Paul Jobs - Tribute page  </h1>
 
 
 **Table of Contents**
-1. [Outcomes](#{Outcomes}) 
+1. [Why](#{Why}) 
 2. [Technologies](#{Demo})
 3. [Context](#{Context})
 4. [Summary](#{Summary})
 5. [Credits](#{Credits})
 
+##Why
 
-## Design task
-
+I decided to make a tribute page for Steve Jobs as I always been inspired how he shaped our modern society by Introducing revolutionary products. In 2012 I read the Steve Jobs book by Walter Isaacson, which helped me to make a critical decision during my accademic career.When I do use an Apple product, I feel like I personally know Steve, the art and semplicity embedded in products such as iPhone , iPad and Macbook give the product its uniqueness.
 
 
 ## Context
+
 
 
 ## Outcomes
