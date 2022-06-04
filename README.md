@@ -3,10 +3,10 @@
 
 **Table of Contents**
 1. [Why](#{Why}) 
-2. [Technologies](#{Demo})
-3. [Context](#{Context})
-4. [Summary](#{Summary})
-5. [Credits](#{Credits})
+2. [Outcomes](#{Outcomes})
+3. [Technologies](#{Technologies})
+4. [Credits](#{Credits})
+
 
 ## Why
 
