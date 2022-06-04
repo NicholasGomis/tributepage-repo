@@ -8,7 +8,7 @@
 4. [Summary](#{Summary})
 5. [Credits](#{Credits})
 
-##Why
+## Why
 
 I decided to make a tribute page for Steve Jobs as I always been inspired how he shaped our modern society by Introducing revolutionary products. In 2012 I read the Steve Jobs book by Walter Isaacson, which helped me to make a critical decision during my accademic career.When I do use an Apple product, I feel like I personally know Steve, the art and semplicity embedded in products such as iPhone , iPad and Macbook give the product its uniqueness.
 
