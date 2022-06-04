@@ -1,5 +1,6 @@
 <h1 align = "center">  Steven Paul Jobs - Tribute page  </h1>
 
+<img src="https://i.ibb.co/2n0NtXF/Clean-Shot-2022-06-04-at-17-27-37-2x.png" alt="lowfidelitywf"/>
 
 **Table of Contents**
 1. [Why](#{Why}) 
