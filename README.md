@@ -5,7 +5,11 @@
 1. [Why](#{Why}) 
 2. [Outcomes](#{Outcomes})
 3. [Technologies](#{Technologies})
-4. [Credits](#{Credits})
+4. [Reflection](#{Reflection})
+5. [Credits](#{Credits})
+
+
+
 
 
 ## Why
@@ -22,6 +26,8 @@ This was my first ever Tribute page. The purpose of this challenge was to grasp 
 - CSS ( CSS to styles some of the element to make the website more attractive)
 - HTML ( HTML  will be used to give a scheletron of the website)
 
+
+## Reflection
 
 ## Credits
 
